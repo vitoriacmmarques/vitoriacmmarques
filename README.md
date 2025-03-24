@@ -1,16 +1,11 @@
-## Hi there 👋
+## Olá, prazer! Vitória Marques 👋
 
-<!--
-**vitoriacmmarques/vitoriacmmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Explorando o mundo dos dados | 📊 Entusiasta de Dados | 
+- 🎓 Estudante de Banco de Dados e Graduada em Comércio Exterior
+- 💻 Com formação em Comércio Exterior e experiência em análise de mercado e exportação de cafés especiais, trabalhei com 4.000 leads, convertendo 6% em oportunidades de negócio. Foi aí que descobri minha paixão por análise de dados e como decisões baseadas em dados podem otimizar processos.
+- 🔭 Atualmente, estou me especializando em análise exploratória, modelagem de dados e Business Intelligence.
+- 📈 Minhas áreas de interesse incluem Data Science, Big Data, Inteligência Artificial e soluções orientadas a dados.
+- 📫 Fale comigo! Me envie um e-mail para discutir novas oportunidades e ideias: vitoriacmarques@outlook.com.br
+- 📄 Saiba mais sobre minha trajetória no LinkedIn: Vitória Marques - LinkedIn
+- 📌 Habilidades: Proatividade, pensamento analítico, comunicação clara, foco em resultados, capacidade de aprendizado rápido, inglês avançado, espanhol intermediário.
+- ⚡ Fun fact: Apaixonada por café, viagens e em busca de sempre novos desafios!
